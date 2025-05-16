@@ -1,7 +1,7 @@
 .quarto-title-block .quarto-title-banner {
   background-image: url(logo_nceas.svg),
                     url(logo_adc_circle.png),
-                    linear-gradient(to top right, #7afdb1, #b5e1e7, #white, #1e254f);
+                    linear-gradient(to top right, #166760, #1c897e, #b5e1e7, #1e254f);
   background-size: 75px, 100px, 100% 100px;
   background-position: 10%, 90%, left;
   background-repeat: no-repeat, no-repeat;
